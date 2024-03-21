@@ -1,10 +1,6 @@
-package repository;
+package main.java.org.example.repository;
 
 
-import entities.Concessionaria;
-
-import java.io.Serializable;
-
-    public interface ConcessionariaRepository extends JpaRepository<Concessionaria, Long> {
+    public interface ConcessionariaRepository  {
 
     }
