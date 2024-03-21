@@ -1,5 +1,4 @@
 package main.java.org.example.entities;
-
 public class Pessoa {
     //---===Atributos===---//
     private Long cpf;
