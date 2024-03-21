@@ -1,4 +1,4 @@
-package main.java.org.example.repository;
+package main.java.org.repository;
 
 
     public interface ConcessionariaRepository  {
