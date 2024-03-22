@@ -1,4 +1,4 @@
-package main.java.org.controlle;
+package org.controlle;
 
 
 public class ConcessionariaControlle {
