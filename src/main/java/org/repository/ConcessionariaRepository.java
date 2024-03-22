@@ -1,6 +1,9 @@
 package main.java.org.repository;
 
 
-    public interface ConcessionariaRepository  {
+import main.java.org.entities.Concessionaria;
+
+
+public interface ConcessionariaRepository {
 
     }
