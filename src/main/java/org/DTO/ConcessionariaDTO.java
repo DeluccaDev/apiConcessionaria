@@ -17,7 +17,6 @@ public class ConcessionariaDTO implements Serializable {
     @Size(max = 100)
     private String cidade;
     @NotBlank(message = "Este campo é obrigatório")
-    //@Telefone
     private String telefone;
     @Nullable
     @Email
